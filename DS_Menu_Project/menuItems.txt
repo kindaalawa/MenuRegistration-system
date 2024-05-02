@@ -1,0 +1,50 @@
+Ratatouille, o m 10.50 Eggplant, zucchini, bell peppers, tomatoes, herbs
+Margarita Flatbread, o a 11.75 Tomato sauce, mozzarella cheese, basil, flatbread crust
+Beef Stroganoff, o m 14.25 Beef strips, mushrooms, sour cream, egg noodles
+Vegetable Stir Fry, v m 9.80 Mixed vegetables, tofu, soy sauce
+Margherita Pizza, v a 12.00 Tomato sauce, mozzarella cheese, basil
+Chicken Alfredo, o m 15.45 Chicken breast, Alfredo sauce, fettuccine pasta
+Chicken Tikka Masala, o m 13.90 Chicken, tikka masala sauce, rice, naan bread
+Spring Rolls, o a 7.25 Rice paper, shrimp, vermicelli noodles, vegetables
+Cheeseburger, o a 9.50 Beef patty, cheddar cheese, lettuce, tomato
+Margherita Pasta, v m 10.80 Tomato sauce, mozzarella cheese, basil, penne pasta
+Tandoori Chicken, o m 13.75 Chicken drumsticks, yogurt marinade, spices
+Lentil Soup, g m 6.20 Lentils, carrots, celery, vegetable broth
+Spinach and Feta Quiche, o a 9.95 Spinach, feta cheese, eggs, pastry crust
+Moon Shine, v b 2.50 beer, honey
+Chicken Quesadilla, o a 10.25 Grilled chicken, cheese, tortilla, salsa, sour cream
+Minestrone Soup, g m 7.10 Beans, pasta, carrots, celery, tomatoes, broth
+Veggie Burrito, v a 8.70 Rice, beans, bell peppers, onions, cheese, tortilla
+Chicken Caesar Wrap, o a 9.25 Grilled chicken, romaine lettuce, Caesar dressing, tortilla
+Shrimp Scampi, o d 16.65 Shrimp, garlic, butter, white wine, linguine pasta
+Falafel Wrap, g a 7.15 Falafel balls, lettuce, tomato, tahini sauce
+Greek Salad, v a 8.60 Romaine lettuce, feta cheese, olives, cucumber, tomatoes
+Frozen Berry, g d 5.00 black berry, raspberry, strawberry  
+Caprese Salad, v a 10.35 Tomato, mozzarella cheese, basil, balsamic glaze
+Milk Shake, o b 3.00 milk, whipped cream, fruit
+Pad Thai, o m 12.40 Rice noodles, shrimp, tofu, peanuts, tamarind sauce
+Chicken Caesar Salad, o a 8.75 Romaine lettuce, Caesar dressing, croutons, Parmesan cheese
+Beef Tacos, o a 10.60 Beef strips, tortillas, salsa, lettuce, cheese
+Sushi Platter, o m 19.20 Assorted sushi rolls, soy sauce, wasabi
+Greek Gyro, o a 9.10 Gyro meat, tzatziki sauce, lettuce, tomatoes
+Mushroom Risotto, o m 13.20 Arborio rice, mushrooms, Parmesan cheese, broth
+Veggie Pizza, v a 11.50 Tomato sauce, bell peppers, onions, olives, mushrooms
+Margarita Cocktail, g b 8.40 Tequila, lime juice, triple sec, salt rim
+Acai, g d 8.00 mango, kiwi, grape, fruits
+Spaghetti Bolognese, o m 13.15 Ground beef, tomato sauce, spaghetti
+Ratatouille, g m 10.90 Eggplant, zucchini, bell peppers, tomatoes, herbs
+Margherita Flatbread, v a 10.10 Tomato sauce, mozzarella cheese, basil, flatbread crust
+Beef Stroganoff, o m 14.75 Beef strips, mushrooms, sour cream, egg noodles
+Vegetable Stir Fry, g m 10.20 Mixed vegetables, tofu, soy sauce
+Margherita Pizza, v a 11.30 Tomato sauce, mozzarella cheese, basil
+Chicken Alfredo, o m 15.75 Chicken breast, Alfredo sauce, fettuccine pasta
+Chicken Tikka Masala, o m 13.50 Chicken, tikka masala sauce, rice, naan bread
+Spring Rolls, o a 7.80 Rice paper, shrimp, vermicelli noodles, vegetables
+Cheeseburger, o a 8.95 Beef patty, cheddar cheese, lettuce, tomato
+Margherita Pasta, v m 11.20 Tomato sauce, mozzarella cheese, basil, penne pasta
+Tandoori Chicken, o m 14.60 Chicken drumsticks, yogurt marinade, spices
+BBQ Ribs, o m 17.05 Pork ribs, BBQ sauce, coleslaw, fries
+Ginger Ale, g b 5.99 whisky, ginger, bubbly
+Spinach and Feta Quiche, v a 9.35 Spinach, feta cheese, eggs, pastry crust
+Chicken Quesadilla, o a 9.70 Grilled chicken, cheese, tortilla, salsa, sour cream
+Beef Kebabs, o m 12.45 Beef cubes, bell peppers, onions, skewers
